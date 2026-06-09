@@ -33,3 +33,4 @@ A reading list of relevant papers and projects on memory augmented neural networ
 - [End to End Test-Time Training](https://arxiv.org/abs/2512.23675) — Tandon et al. (Dec 2025)
 - [Fast-weight Product Key Memory](https://arxiv.org/abs/2601.00671) — Zhao et al. (Jan 2026)
 - [Learning to Discover at Test Time](https://arxiv.org/abs/2601.16175) — Yuksekgonul et al. (Jan 2026)
+- [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) – Behrouz et al. (Dec 2024)
