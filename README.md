@@ -19,7 +19,7 @@ A reading list of relevant papers and projects on memory augmented neural networ
 
 - [Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242) — Lample et al. (Jul 2019)
 - [Memory Layers at Scale](https://arxiv.org/abs/2412.09764) — Berges et al. (Dec 2024)
-- [Engram: Conditional Memory via Scalable Lookup](https://arxiv.org/pdf/2601.07372) — Cheng et al. (Jan 2026)
+- [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/pdf/2601.07372) — Cheng et al. (Jan 2026)
 
 ## Context Compaction and Meta-Harnesses
 
